@@ -69,5 +69,6 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/wulinxu/wulinxu.github.io.git
+  message: "deploy!!"
+  repo: git@github.com:wulinxu/wulinxu.github.io.git
   branch: master
